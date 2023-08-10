@@ -16,5 +16,5 @@
 <KoBART-summarization> https://github.com/youkm1/KoBART-summarization
 
 
-##인공지능 모델이 Flask 어떻게 활용되었는지 궁금하신 분은 본 레포지토리에 Summarization 확인 바랍니다!</br>    
+## 인공지능 모델이 Flask 어떻게 활용되었는지 궁금하신 분은 본 레포지토리에 Summarization 확인 바랍니다!</br>    
 감사합니다
