@@ -12,4 +12,4 @@
 ------
 
 ## KoBART와 언어 인공지능 모델에 관심 있으신 분들
-:
+https://github.com/youkm1/Text-Summarization-Repo
