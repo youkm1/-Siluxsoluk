@@ -7,9 +7,10 @@
 전유채
 고재은
 
-솔룩스 최우수상! 실룩솔룩의 KoBART + OCR + Flask 작업 레포입니다!</br>   
-언제든 퍼블릭으로 열어놓겠습니다^^
-------
+# 솔룩스 최우수상! 실룩솔룩의 KoBART + OCR + Flask 작업 레포입니다!</br>   
+# 언제든 퍼블릭으로 열어놓겠습니다^^
+
+</tr>
 
 ## KoBART와 언어 인공지능 모델에 관심 있으신 분들
 <텍스트 요약 모델> https://github.com/youkm1/Text-Summarization-Repo
